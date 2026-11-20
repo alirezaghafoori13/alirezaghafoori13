@@ -39,7 +39,7 @@ Business & Productivity
 
 Practical Digital Work
 
-- AI-assisted HTML forms and internal tools
+- AI-Assisted Web-Based Tools & Internal Applications
 - Workflow automation concepts
 - Product prototyping and testing
 - Bug reporting and product feedback
@@ -61,7 +61,7 @@ Key areas:
 - Spare parts and inventory management
 - Invoices, expenses, and financial reports
 - Service reminders and data backup
-- Windows and Android applications
+- Windows applications
 
 My contribution: Product ideation, requirements analysis, workflow design, feature definition, AI-assisted development coordination, testing, feedback, and continuous improvement.
 
