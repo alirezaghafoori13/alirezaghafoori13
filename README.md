@@ -66,6 +66,37 @@ Key areas:
 My contribution: Product ideation, requirements analysis, workflow design, feature definition, AI-assisted development coordination, testing, feedback, and continuous improvement.
 
 🔗 Project repository: "Dinam — Motorcycle Workshop Management" (https://github.com/alirezaghafoori13/dinam-workshop-management)
+---
+
+🌟 Featured Project
+
+Support Operations Toolkit — Support Workflow & Productivity Tools
+
+A lightweight, browser-based toolkit designed to streamline repetitive support operations, standardize reporting workflows, and improve day-to-day operational productivity.
+
+The toolkit brings together practical utilities for common support tasks in a single interface, helping simplify documentation, generate structured reports, and reduce repetitive manual work.
+
+Key areas:
+
+- Dynamic forms for incident reporting and operational requests
+- Transaction documentation and referral report generation
+- Banking documentation and transaction support forms
+- Deposit, withdrawal, and cryptocurrency-related reporting templates
+- Persian and English number conversion
+- Keyboard layout text conversion
+- Persian (Jalali) date generation and text formatting utilities
+- Withdrawal-cycle message generation
+- Incoming and outgoing call counter with local browser storage
+- Light and dark interface themes
+- Copy-ready reports for faster documentation
+
+My contribution: Product ideation, workflow analysis, requirements definition, interface and feature design, AI-assisted development, functional testing, troubleshooting, feedback, and continuous improvement.
+
+Technologies: HTML5, CSS3, Vanilla JavaScript, Browser APIs, Local Storage, AI-assisted Development.
+
+🔗 Project repository: "Support Operations Toolkit" (https://github.com/alirezaghafoori13/support-operations-toolkit)
+
+🌐 Live Demo: "Open Support Operations Toolkit" (https://alirezaghafoori13.github.io/support-operations-toolkit/)
 
 ---
 
